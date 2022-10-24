@@ -1,4 +1,4 @@
-#### Get Java From available official images,
+### Get Java From available official images,
 
 `[anup@c9-251-docker ~]$ docker run -it eclipse-temurin bash`
 
